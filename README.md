@@ -1,5 +1,5 @@
 # JetbotRepo
-# 🤖 Vision-Based Hand Guided JetBot
+# Vision-Based Hand Guided JetBot
 
 A lightweight computer vision project deployed on NVIDIA JetBot (2GB Jetson Nano).
 
@@ -9,7 +9,7 @@ The system uses OpenCV-based motion analysis instead of heavy deep learning mode
 
 ---
 
-# 🚀 Features
+# Features
 
 - Real-time motion detection
 - Hand-guided robot navigation
@@ -19,7 +19,7 @@ The system uses OpenCV-based motion analysis instead of heavy deep learning mode
 
 ---
 
-# 🧠 Working Principle
+# Working Principle
 
 1. Capture live camera feed
 2. Convert frames to grayscale
@@ -30,7 +30,7 @@ The system uses OpenCV-based motion analysis instead of heavy deep learning mode
 
 ---
 
-# 🛠️ Hardware Used
+# Hardware Used
 
 - NVIDIA JetBot 2GB
 - Jetson Nano
@@ -39,7 +39,7 @@ The system uses OpenCV-based motion analysis instead of heavy deep learning mode
 
 ---
 
-# 💻 Software Stack
+# Software Stack
 
 - Python
 - OpenCV
@@ -48,7 +48,7 @@ The system uses OpenCV-based motion analysis instead of heavy deep learning mode
 
 ---
 
-# 📦 Installation
+# Installation
 
 ## Clone Repository
 
@@ -71,7 +71,7 @@ python3 hand_guided_navigation.py
 
 ---
 
-# 📷 Demo
+# Demo
 
 Move your hand in front of the camera.
 
@@ -83,7 +83,7 @@ The robot will:
 
 ---
 
-# 🎯 Applications
+# Applications
 
 - Embedded AI
 - Human Robot Interaction
@@ -92,6 +92,6 @@ The robot will:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 Monishka Mittal
